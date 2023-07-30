@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi, I'm Kaan 👋
 
+ A software developer from Turkey :)
+
+
+I am studying computer science at Özyeğin University as a 4th year student.
+The technologies I often use are React and Java.
+I am also familiar with C, C++, Verilog,
+Angular, Javascript, HTML, CSS,
+Bootstrap, Redux, MaterialUI,
+Node.js and Spring Boot.
+I am very interested in learning
+new technologies and will put
+on the work required.
 <!--
 **kaanyillmazz/kaanyillmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
