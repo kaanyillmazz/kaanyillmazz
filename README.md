@@ -13,6 +13,7 @@ I am very interested in learning
 new technologies, also ask me anything :)
 
 I'm currently working on CTRL + Future Bootcamp.
+
 You can reach me from my linkedin profile.
 <!--
 **kaanyillmazz/kaanyillmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
