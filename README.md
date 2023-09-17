@@ -16,7 +16,7 @@ I'm currently working on CTRL + Future Bootcamp.
 
 You can reach me from my linkedin profile.
 
-[Personal Website](https://kaanyilmaz.surge.sh/)
+[Personal Website](https://www.kaanyilmaz.space/)
 
 <!--
 **kaanyillmazz/kaanyillmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
