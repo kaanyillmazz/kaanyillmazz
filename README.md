@@ -1,22 +1,21 @@
-### Hi, I'm Kaan 👋
-
- A software developer from Turkey :)
-
+<h1 align="center"> Hi, I'm Kaan 👋 </h1>
+<h2 align="center"> A software developer from Turkey :) </h2>
 
 I am studying computer science at Özyeğin University as a 4th year student.
 The technologies I often use are React and Java.
-I am also familiar with C, C++, C#, ASP.NET, Unreal Engine, Verilog,
+I am also familiar with C, C++, C#, ASP.NET, Azure, Unreal Engine, Verilog,
 Angular, Javascript, HTML, CSS,
 Bootstrap, Redux, MaterialUI,
 Node.js and Spring Boot.
 I am very interested in learning
 new technologies, also ask me anything :)
 
-I'm currently working on CTRL + Future Bootcamp.
+I'm currently working on CTRL+ Future Bootcamp on ASP.Net and Azure.
+I am currently looking forward to expanding my knowledge about Unreal Engine and DevOps.
 
 You can reach me from my linkedin profile.
 
-[Personal Website](https://www.kaanyilmaz.space/)
+[Personal Website](https://www.kaanyilmaz.space/)  
 
 
 
