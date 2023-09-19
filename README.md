@@ -5,7 +5,7 @@
 
 I am studying computer science at Özyeğin University as a 4th year student.
 The technologies I often use are React and Java.
-I am also familiar with C, C++, Verilog,
+I am also familiar with C, C++, C#, ASP.NET, Verilog,
 Angular, Javascript, HTML, CSS,
 Bootstrap, Redux, MaterialUI,
 Node.js and Spring Boot.
